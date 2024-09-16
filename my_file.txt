@@ -1,0 +1,6 @@
+Hello, World!
+This is a text file.
+Here is a number: 12345
+Appending new line 1.
+Appending new line 2.
+Appending new line 3.
